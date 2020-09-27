@@ -1,6 +1,6 @@
 ### Tomasz Tarczyński (He/Him)
 
-Here are my [past speaking engagements](../blob/master/SPEAKING.md)
+Here are my [past speaking engagements](../master/SPEAKING.md)
 
 I'm available at:
 * [twitter](https://twitter.com/ttarczynski)
