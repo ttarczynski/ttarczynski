@@ -2,7 +2,7 @@
 
 | Date | Title | Conference | Where | Slides | Video | Description |
 | ---- | ----- | ---------- | ----- | ------ | ----- | ----------- |
-| 2020-09-15 | Config Mgmt for Kubernetes workloads with GitOps and Helm | 4Developers | Kraków / Online | [slides](https://www.slideshare.net/TomaszTarczyski1/config-nagement-for-kubernetes-gitops-helm-4developers-2020) |  | [description](https://4developers.org.pl/lecture_warszawa_2020/#id=62340) |
+| 2020-09-15 | Config Mgmt for Kubernetes workloads with GitOps and Helm | 4Developers | Kraków / Online | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-for-kubernetes-gitops-helm-4developers-2020) |  | [description](https://4developers.org.pl/lecture_warszawa_2020/#id=62340) |
 | 2020-02-03 | Config Mgmt for Kubernetes workloads with GitOps and Helm | CfgMgmtCamp | Ghent | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-forkubernetes-gitops-helm-cfgmgmtcamp-2020) |  | [description](https://cfp.cfgmgmtcamp.be/2020/talk/FRSHZ8/) |
 | 2019-11-25 | Configuration Management for the Cloud Native world with GitOps and Helm | DevOpsDays | Warsaw | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-for-kubernetes-gitops-helm) | [video](https://www.youtube.com/watch?v=rSw2VPNtP68) | [description](https://2019.devopsdays.pl/lecture/#id=57329) |
 | 2019-09-10 | Config management for kubernetes: GitOps + Helm | Cloud Native Warsaw | Warsaw | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-for-kubernetes-gitops-helm-4developers-2020) |  | [description](http://www.cloudnativewarsaw.com/) |
