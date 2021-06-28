@@ -2,6 +2,8 @@
 
 | Date | Title | Conference | Where | Slides | Video | Description |
 | ---- | ----- | ---------- | ----- | ------ | ----- | ----------- |
+| 2021-04-27 | Kubernetes Config Management Landscape | DevOpsDays | Kraków / Online | [slides](https://www.slideshare.net/TomaszTarczyski1/kubernetes-config-management-landscape-247104994) |  | [description](https://dodkrakow.pl/lecture-2021#id=65058) |
+| 2021-02-06 | Kubernetes Config Management Landscape | FOSDEM | Online | [slides](https://www.slideshare.net/TomaszTarczyski1/kubernetes-config-management-landscape) |  | [description](https://fosdem.org/2021/schedule/event/k8sconfigmgmtlandscape/) |
 | 2020-09-15 | Config Mgmt for Kubernetes workloads with GitOps and Helm | 4Developers | Kraków / Online | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-for-kubernetes-gitops-helm-4developers-2020) |  | [description](https://4developers.org.pl/lecture_warszawa_2020/#id=62340) |
 | 2020-02-03 | Config Mgmt for Kubernetes workloads with GitOps and Helm | CfgMgmtCamp | Ghent | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-forkubernetes-gitops-helm-cfgmgmtcamp-2020) |  | [description](https://cfp.cfgmgmtcamp.be/2020/talk/FRSHZ8/) |
 | 2019-11-25 | Configuration Management for the Cloud Native world with GitOps and Helm | DevOpsDays | Warsaw | [slides](https://www.slideshare.net/TomaszTarczyski1/config-management-for-kubernetes-gitops-helm) | [video](https://www.youtube.com/watch?v=rSw2VPNtP68) | [description](https://2019.devopsdays.pl/lecture/#id=57329) |
@@ -18,6 +20,7 @@
 
 | Date | Title | Conference | Where | Slides | Video | Description |
 | ---- | ----- | ---------- | ----- | ------ | ----- | ----------- |
+| 2021-02-24 | Kubernetes Config Management Landscape | Software Circus | Amsterdam / Online | [slides](https://www.slideshare.net/TomaszTarczyski1/kubernetes-config-management-landscape-247104994) |  | [description](https://www.meetup.com/en-AU/Software-Circus/events/276304997/) |
 | 2019-06-25 | Kubernetes Config Management: Helm + GitOps | DevOps Wrocław | Wrocław | [slides](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2019-06-25/Tomasz_Tarczynski_-_Config_management_for_Kubernetes_-_GitOps_+_Helm.pdf) |  | [description](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/261998216/) | 
 | 2018-06-26 | Evolution of the IoT backend platform. From a monolith to microservices and toward cloud native infrastructure. | DevOps Wrocław | Wrocław | [slides](https://github.com/devopswroclaw/presentations/raw/master/slides/devopswroclaw_2018-06-26/Tomasz_Tarczynski_-_Evolution_of_the_IoT_backend_platform.pdf) |  | [description](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/251437211/) |
 | 2018-04-11 | Kubernetes 101 Workshop | DevOps Wrocław | Wrocław | [slides](https://github.com/ttarczynski/kubernetes-101-workshop) |  | [description](https://www.meetup.com/Wroclaw-DevOps-Meetup/events/249378515/) |
