@@ -1,6 +1,10 @@
 ### Tomasz Tarczyński (He/Him)
 
 Here are my [past speaking engagements](../master/SPEAKING.md)
+Some projects I worked on:
+* [Tterraform Examples](https://github.com/ContainerSolutions/terraform-examples)
+* [Ggitops Demo](https://github.com/ttarczynski/gitops-demo)
+* [Kubernetes 101 Workshop](https://github.com/ttarczynski/kubernetes-101-workshop)
 
 I'm available at:
 * [twitter](https://twitter.com/ttarczynski)
